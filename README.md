@@ -1,4 +1,4 @@
-# typescriptats README
+# Custom Typescript Theme
 
 ## Working with Markdown
 
