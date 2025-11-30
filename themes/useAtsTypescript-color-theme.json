@@ -1,10 +1,10 @@
 {
 	"name": "useAtsTypescript",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#131313",
+		"editor.foreground": "#232323",
+		"activityBarBadge.background": "#131313",
+		"sideBarTitle.foreground": "#232323"
 	},
 	"tokenColors": [
 		{
