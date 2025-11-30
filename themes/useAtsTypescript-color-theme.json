@@ -108,7 +108,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#284B63"
+				"foreground": "#abc4ff"
 			}
 		},
 		{
@@ -118,7 +118,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#1F3F53"
+				"foreground": "#abc4ff"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#1A394B"
+				"foreground": "#abc4ff"
 			}
 		},
 		{
